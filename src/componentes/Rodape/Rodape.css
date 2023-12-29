@@ -1,0 +1,18 @@
+.rodape {
+    background-color:#6278F7;
+    text-align: center;
+    height: 200px;
+}
+
+.logo-rodape {
+    display: flex;
+    justify-content:space-between 30px;
+    margin-left: 200px;
+}
+
+.logo-rodape img {
+    display: flex;
+    margin-right: 20px;
+    margin-top: 75px;
+   
+}
