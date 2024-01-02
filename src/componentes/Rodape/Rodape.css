@@ -1,18 +1,17 @@
-.rodape {
-    background-color:#6278F7;
-    text-align: center;
-    height: 200px;
+.footer {
+    background: #6278F7;
+    color: #FFF;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-.logo-rodape {
-    display: flex;
-    justify-content:space-between 30px;
-    margin-left: 200px;
+.footer ul li {
+    display: inline-block;
+    margin-right: 32px;
 }
 
-.logo-rodape img {
-    display: flex;
-    margin-right: 20px;
-    margin-top: 75px;
-   
+.footer ul li:last-child {
+    margin-right: 0;
 }
